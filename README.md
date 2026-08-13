@@ -22,9 +22,22 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/apekshhaa/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/apekshhaa/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
