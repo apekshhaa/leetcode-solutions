@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/apekshhaa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [2784-check-if-array-is-good](https://github.com/apekshhaa/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/apekshhaa/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
