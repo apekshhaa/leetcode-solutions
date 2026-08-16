@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/apekshhaa/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/apekshhaa/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -32,6 +33,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/apekshhaa/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -40,6 +42,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/apekshhaa/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
