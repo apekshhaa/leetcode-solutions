@@ -9,12 +9,14 @@
 | [0035-search-insert-position](https://github.com/apekshhaa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [2784-check-if-array-is-good](https://github.com/apekshhaa/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/apekshhaa/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/0001-two-sum) |
 | [2784-check-if-array-is-good](https://github.com/apekshhaa/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/apekshhaa/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
