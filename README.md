@@ -69,4 +69,5 @@
 | [0184-department-highest-salary](https://github.com/apekshhaa/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/apekshhaa/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [1729-find-followers-count](https://github.com/apekshhaa/leetcode-solutions/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
