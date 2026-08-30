@@ -69,6 +69,7 @@
 | [0182-duplicate-emails](https://github.com/apekshhaa/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/apekshhaa/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/apekshhaa/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/apekshhaa/leetcode-solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1484-group-sold-products-by-the-date](https://github.com/apekshhaa/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1729-find-followers-count](https://github.com/apekshhaa/leetcode-solutions/tree/master/1729-find-followers-count) |
