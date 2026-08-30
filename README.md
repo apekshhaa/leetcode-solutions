@@ -76,6 +76,7 @@
 | [0595-big-countries](https://github.com/apekshhaa/leetcode-solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/apekshhaa/leetcode-solutions/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/apekshhaa/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/apekshhaa/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1729-find-followers-count](https://github.com/apekshhaa/leetcode-solutions/tree/master/1729-find-followers-count) |
 ## Greedy
