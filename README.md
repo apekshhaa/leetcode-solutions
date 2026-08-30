@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apekshhaa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/apekshhaa/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0455-assign-cookies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2784-check-if-array-is-good](https://github.com/apekshhaa/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/apekshhaa/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -21,6 +22,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2784-check-if-array-is-good](https://github.com/apekshhaa/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apekshhaa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0455-assign-cookies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Database
 |  |
 | ------- |
@@ -74,4 +77,12 @@
 | [0620-not-boring-movies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1484-group-sold-products-by-the-date](https://github.com/apekshhaa/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1729-find-followers-count](https://github.com/apekshhaa/leetcode-solutions/tree/master/1729-find-followers-count) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
