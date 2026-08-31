@@ -81,6 +81,7 @@
 | [1484-group-sold-products-by-the-date](https://github.com/apekshhaa/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1729-find-followers-count](https://github.com/apekshhaa/leetcode-solutions/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/apekshhaa/leetcode-solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/apekshhaa/leetcode-solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Greedy
 |  |
 | ------- |
