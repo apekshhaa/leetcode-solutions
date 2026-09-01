@@ -79,6 +79,7 @@
 | [0619-biggest-single-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/apekshhaa/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/apekshhaa/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/apekshhaa/leetcode-solutions/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/apekshhaa/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1729-find-followers-count](https://github.com/apekshhaa/leetcode-solutions/tree/master/1729-find-followers-count) |
