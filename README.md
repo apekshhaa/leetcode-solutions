@@ -76,6 +76,7 @@
 | [0183-customers-who-never-order](https://github.com/apekshhaa/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/apekshhaa/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/apekshhaa/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/apekshhaa/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/apekshhaa/leetcode-solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/apekshhaa/leetcode-solutions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0619-biggest-single-number) |
