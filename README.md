@@ -88,6 +88,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/apekshhaa/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/apekshhaa/leetcode-solutions/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/apekshhaa/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/apekshhaa/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/apekshhaa/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/apekshhaa/leetcode-solutions/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/apekshhaa/leetcode-solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
