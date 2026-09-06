@@ -81,6 +81,7 @@
 | [0607-sales-person](https://github.com/apekshhaa/leetcode-solutions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/apekshhaa/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/apekshhaa/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/apekshhaa/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/apekshhaa/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
