@@ -32,6 +32,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/apekshhaa/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/apekshhaa/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/apekshhaa/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/apekshhaa/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/apekshhaa/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/apekshhaa/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
