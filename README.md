@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apekshhaa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/apekshhaa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0455-assign-cookies](https://github.com/apekshhaa/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/apekshhaa/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/apekshhaa/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2784-check-if-array-is-good](https://github.com/apekshhaa/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/0001-two-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/apekshhaa/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2784-check-if-array-is-good](https://github.com/apekshhaa/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/apekshhaa/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/apekshhaa/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -58,6 +60,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/apekshhaa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/apekshhaa/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/apekshhaa/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Interactive
 |  |
 | ------- |
@@ -111,4 +114,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/apekshhaa/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/apekshhaa/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/apekshhaa/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
